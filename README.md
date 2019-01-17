@@ -25,12 +25,12 @@ Acesse o prompt de comando do Anaconda (Anaconda Prompt) através do menu Inicia
 
 ## Ordem sugerida para o estudo dos arquivos
 
-1 - Strings
-2 - Python Básico - Condicional e Estruturas de Repetição
-3 - Estrutura de Dados - Lista
-4 - Estrutura de Dados - Tupla
-5 - Estrutura de Dados - Dicionário
-6 - Análise Exploratória
-7 - Tratamento de Dados - Detecção de Anomalias
-8 - Tratamento de Dados - Normalização de Dados
-9 - Pré-Processamento de Dados - Discretização
+1 - Strings <br>
+2 - Python Básico - Condicional e Estruturas de Repetição <br>
+3 - Estrutura de Dados - Lista <br>
+4 - Estrutura de Dados - Tupla <br>
+5 - Estrutura de Dados - Dicionário <br>
+6 - Análise Exploratória <br>
+7 - Tratamento de Dados - Detecção de Anomalias <br>
+8 - Tratamento de Dados - Normalização de Dados <br>
+9 - Pré-Processamento de Dados - Discretização <br>
